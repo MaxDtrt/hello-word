@@ -1,2 +1,4 @@
 # hello-word
-1st repository
+
+Hi,
+I'm Maximin
