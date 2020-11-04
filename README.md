@@ -1,4 +1,4 @@
-# hello_word
+# hello_world
 
 Hi,
 I'm Maximin
